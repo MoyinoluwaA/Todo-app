@@ -7,14 +7,14 @@
 }
 
 .top-section h1 {
-    font-size: 36px;
+    font-size: 48px;
 }
 
 input[type='text'],
 input[type='text']:hover {
     border-radius: 8px;
     border: none;
-    height: 36px;
+    height: 46px;
     width: 83%;
     padding: 5px 1em;
     margin-right: 0.5em;
@@ -24,7 +24,7 @@ input[type='text']:hover {
 .top-section button {
     border-radius: 10px;
     width: 13%;
-    height: 35px;
+    height: 45px;
     padding: 0.25em 0.7em;
     background-color: mediumvioletred;
     border: none;
@@ -111,7 +111,7 @@ input[type='text']:hover {
 
 @media screen and (min-width: 992px) {
     body {
-        font-size: 18px;
+        font-size: 22px;
     }
 
     .page {
@@ -120,7 +120,7 @@ input[type='text']:hover {
     }
 
     .top-section h1 {
-        font-size: 48px;
+        font-size: 56px;
     }
 
     input[type='text'],
